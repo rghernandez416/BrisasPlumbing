@@ -53,6 +53,19 @@ a:focus {
     SIDEBAR STYLE
 ----------------------------------------------------- */
 
+#noncopy{
+  width: 15%;
+}
+
+#noncopy1{
+  width: 15%;
+}
+
+#social-media-icons{
+  width: 5%;
+  margin: 0 10%;
+}
+
 .wrapper {
   display: flex;
   width: 100%;
