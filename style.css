@@ -47,7 +47,7 @@ a:focus {
 }
 
 #logo{
-  width: 15%;
+  width: 10%;
 }
 /* ---------------------------------------------------
     SIDEBAR STYLE
@@ -168,6 +168,9 @@ a.article:hover {
     margin-left: 0;
   }
   #sidebarCollapse span {
+    display: none;
+  }
+  #logo{
     display: none;
   }
 }
