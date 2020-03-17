@@ -13,7 +13,7 @@ p {
   font-size: 1.1em;
   font-weight: 300;
   line-height: 1.7em;
-  color: #999;
+  color: rgb(26, 26, 26);
 }
 
 a,
@@ -140,6 +140,24 @@ a.article:hover {
   background: #5B9DBA !important;
   color: #fff !important;
 }
+
+.carousel{
+margin: auto;
+  width: 75%;
+}
+
+.body > p{
+  display: block;
+float: none;
+position: relative;
+width: 85%; 
+margin: 0 auto;
+}
+
+
+
+
+
 
 /* ---------------------------------------------------
     CONTENT STYLE
